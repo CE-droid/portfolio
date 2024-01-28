@@ -12,10 +12,6 @@ export const menu = [
     path: '/portfolio',
   },
   {
-    label: 'Blog',
-    path: '/posts',
-  },
-  {
     label: 'Contact',
     path: '/contact',
   },

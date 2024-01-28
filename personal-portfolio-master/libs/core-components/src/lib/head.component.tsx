@@ -7,7 +7,7 @@ type HeadProps = {
 export const Head = ({ title }: HeadProps) => {
   return (
     <NextHead>
-      <title>{`Sal Anvarov - ${title ?? 'Portfolio'}`}</title>
+      <title>{`Gousmine Cerine - ${title ?? 'Portfolio'}`}</title>
     </NextHead>
   );
 };

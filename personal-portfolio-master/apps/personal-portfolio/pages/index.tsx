@@ -132,7 +132,7 @@ const LandingPage = () => {
             <div className="col-md-12">
               <div className="blog-service-profile-wrap d-flex gap-24">
                 <div data-aos="zoom-in">
-                  <div className="about-blog-box info-box shadow-box h-full">
+                  {/* <div className="about-blog-box info-box shadow-box h-full">
                     <Link href="/posts" className="overlay-link" />
                     <img src="/assets/bg1.png" alt="BG" className="bg-img" />
                     <img src={en.landing.blog.media} alt="thumbnail" />
@@ -154,7 +154,7 @@ const LandingPage = () => {
                         />
                       </Link>
                     </div>
-                  </div>
+                  </div> */}
                 </div>
                 <div data-aos="zoom-in" className="flex-1">
                   <div className="about-services-box info-box shadow-box h-full">

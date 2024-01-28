@@ -29,7 +29,7 @@ export const Header = () => {
       <div className="container">
         <div className="gx-row d-flex align-items-center justify-content-between">
           <Link href="/" className="logo">
-            <img src="/assets/logo/logo.png" alt="Logo" />
+            <img src="/assets/logo/logoc_letter_sm.png" alt="Logo" />
           </Link>
           <nav
             className={classNames('navbar', { active: displayMobileNavbar })}
@@ -45,14 +45,14 @@ export const Header = () => {
             </ul>
             <a
               className="theme-btn"
-              href="https://calendly.com/msalanvarov"
+              href="https://www.linkedin.com/in/cerine-gousmine"
               target="_blank"
               rel="noreferrer noopener"
             >
               <span role="img" aria-label="coffee">
                 ☕
               </span>{' '}
-              Chat with Sal
+              Chat with Cerine
             </a>
           </nav>
 

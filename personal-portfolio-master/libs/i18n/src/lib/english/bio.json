@@ -1,29 +1,30 @@
 {
   "bio": {
-    "media": "/assets/3d-headshot-lg.png",
+    "media": "/assets/3d-female3.jpeg",
     "details": {
       "heading": "Bio",
-      "name": "Sal Anvarov",
-      "description": "Hard-working developer with a flair for creating elegant solutions to complex problems. Team player with a can-do attitude and a strong focus on client satisfaction. Diverse experience with modern technologies and cloud providers like AWS and GCP with enterprise DevOps experience. Likes to contribute to open-source and create apps on his free time."
+      "name": "Gousmine Cerine",
+      "description": "Hard-working developer with a flair for creating elegant solutions to complex problems. Team player with a can-do attitude and a strong focus on client satisfaction."
     }
+
   },
   "experience": {
     "heading": "Experience",
     "experience": [
       {
-        "date": "2022 - Present",
+        "date": "Feb 2023 - Jan 2024",
         "title": "Lead Full Stack Developer",
-        "company": "Oproma"
+        "company": "thinline"
       },
       {
-        "date": "2022 - Present",
-        "title": "Chief Technology Officer",
-        "company": "Cleanlist.ai"
+        "date": "Feb 2022 - Feb 2023",
+        "title": "Full Stack Developer",
+        "company": "thinline"
       },
       {
-        "date": "2020 - 2022",
-        "title": "Lead Software Developer",
-        "company": "Permion.ai"
+        "date": "December 2020 - May 2021",
+        "title": "Full Stack Developer",
+        "company": "Netfer Smart Solutions"
       }
     ]
   },
@@ -31,19 +32,14 @@
     "heading": "Education",
     "education": [
       {
-        "date": "Professional Certificate",
-        "degree": "Meta Front-End Developer",
-        "university": "Coursera"
+        "date": "September 2020 – September 2022",
+        "degree": "Master 2: Network and Embeded systemsr",
+        "university": "Alger 1 Ben Youcef Ben Kheda"
       },
       {
-        "date": "Professional Certificate",
-        "degree": "Meta Back-End Developer",
-        "university": "Coursera"
-      },
-      {
-        "date": "Degree",
-        "degree": "Bachelor Degree in CS and Stats",
-        "university": "University of Toronto"
+        "date": "September 2015 – September 2020",
+        "degree": "Licence: Software and information system",
+        "university": "Alger 1 Ben Youcef Ben Kheda"
       }
     ]
   },
@@ -60,11 +56,11 @@
     },
     "profiles": [
       {
-        "link": "https://github.com/msanvarov",
+        "link": "",
         "icon": "iconoir-github"
       },
       {
-        "link": "https://linkedin.com/in/sal-anvarov",
+        "link": "https://www.linkedin.com/in/cerine-gousmine",
         "icon": "iconoir-linkedin"
       }
     ]
@@ -82,7 +78,7 @@
   },
   "credentials": {
     "heading": "Qualifications",
-    "caption": "A little on Sal",
+    "caption": "A little on Cerine",
     "media": "/assets/signature.png",
     "button": {
       "link": "/credentials",

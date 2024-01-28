@@ -9,7 +9,7 @@
         "topics": [
           "Wireframing",
           "High-Fidelity Prototyping",
-          "Consulting & Strategy",
+          "User Testing and Feedback", 
           "Comprehensive Documentation"
         ]
       },
@@ -18,29 +18,28 @@
         "text": "System Design",
         "topics": [
           "Architectural Planning",
-          "Data Modeling",
+          "Data Modeling (MySQL)", 
           "API Design and Integration",
           "Documentation and Training"
         ]
       },
       {
         "icon": "iconoir-design-pencil",
-        "text": "DevOps",
+        "text": "Development",
         "topics": [
-          "Continuous Integration and Deployment (CI/CD)",
-          "Containerization and Orchestration",
-          "Disaster Recovery",
-          "Training and Consultation"
+          "Web Development (React, Node.js, PHP)",
+          "Healthcare Platform Development", 
+          "API Development and Integration",
+          "Database Design and Management (MySQL)", 
+          "Email Campaign Management" 
         ]
       },
       {
-        "icon": "iconoir-code",
-        "text": "Development",
+        "icon": "iconoir-rocket", 
         "topics": [
-          "Web Development",
-          "Mobile App Development",
-          "API Development and Integration",
-          "Database Design and Management"
+          "Git/Bitbucket/Docker Management", 
+          "Deployment and Monitoring", 
+          "Code Documentation and Optimization" 
         ]
       }
     ]
@@ -51,7 +50,6 @@
       "description": [
         "- <b>Wireframing</b>: Creating ui mockups with foundational elements to grasp the business requirements.",
         "- <b>High-Fidelity Prototyping</b>: High-fidelity prototypes are produced, featuring rich detail and mock data.",
-        "- <b>Consulting & Strategy</b>: Drawing upon years of professional experience, expert opinion on the best UI/UX practices is offered, aimed at providing a competitive edge.",
         "- <b>Comprehensive Documentation</b>: Detailed guides and documentation are provided to facilitate an easy transition from the prototype to the final product."
       ]
     },
@@ -67,8 +65,6 @@
     {
       "title": "DevOps",
       "description": [
-        "- <b>Continuous Integration and Deployment (CI/CD)</b>: Implementing a seamless pipeline for code integration and deployment, enabling faster release cycles and immediate feedback.",
-        "- <b>Containerization and Orchestration</b>: Deploying containerization technologies such as Docker and orchestration tools like Kubernetes to manage microservices efficiently.",
         "- <b>Disaster Recovery</b>: Planning and implementing disaster recovery strategies that ensure minimal downtime and data loss in case of any failure or catastrophic event.",
         "- <b>Training and Consultation</b>: Providing comprehensive training programs and consultation services to upskill the internal team, enabling them to manage the DevOps lifecycle more efficiently."
       ]
@@ -77,7 +73,6 @@
       "title": "Development",
       "description": [
         "- <b>Web Development</b>: Crafting responsive and dynamic websites or web applications, using a combination of front-end and back-end technologies, to meet various online business needs.",
-        "- <b>Mobile App Development</b>: Creating native and cross-platform mobile applications that offer seamless user experiences across iOS Android and other mobile platforms.",
         "- <b>API Development and Integration</b>: Building and integrating APIs to enable seamless communication between different software components, be it internal systems or third-party services.",
         "- <b>Database Design and Management</b>: Designing efficient database schemas and offering database management services that ensure high performance, security and scalability."
       ]
@@ -93,11 +88,11 @@
     },
     "profiles": [
       {
-        "link": "https://github.com/msanvarov",
+        "link": "",
         "icon": "iconoir-github"
       },
       {
-        "link": "https://linkedin.com/in/sal-anvarov",
+        "link": "https://www.linkedin.com/in/cerine-gousmine",
         "icon": "iconoir-linkedin"
       }
     ]
@@ -112,7 +107,7 @@
   },
   "credentials": {
     "heading": "Qualifications",
-    "caption": "A little on Sal",
+    "caption": "A little on Cerine",
     "media": "/assets/signature.png",
     "button": {
       "link": "/credentials",

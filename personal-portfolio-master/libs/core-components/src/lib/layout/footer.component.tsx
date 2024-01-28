@@ -6,7 +6,7 @@ export const Footer = () => {
       <div className="container">
         <div className="footer-content text-center">
           <Link href="/" className="logo">
-            <img src="/assets/logo/logo.png" alt="Logo" />
+            <img src="/assets/logo/logoc_letter_sm.png" alt="Logo" />
           </Link>
           <ul className="footer-menu">
             <li>
@@ -18,15 +18,15 @@ export const Footer = () => {
             <li>
               <Link href="/portfolio">Portfolio</Link>
             </li>
-            <li>
+            {/* <li>
               <Link href="/posts">Blog</Link>
-            </li>
+            </li> */}
             <li>
               <Link href="/contact">Contact</Link>
             </li>
           </ul>
           <p className="copyright">
-            Made with 💙 and ☕ by <span>Sal Anvarov</span>
+            Made with 💙 and ☕ by <span>Gousmine Cerine</span>
           </p>
         </div>
       </div>

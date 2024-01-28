@@ -39,13 +39,13 @@ export const Layout = ({
         {children}
       </section>
       <DynamicPopupButton
-        url="https://calendly.com/msalanvarov"
+        url="https://www.linkedin.com/in/cerine-gousmine"
         /*
          * react-calendly uses React's Portal feature (https://reactjs.org/docs/portals.html) to render the popup modal. As a result, you'll need to
          * specify the rootElement property to ensure that the modal is inserted into the correct domNode.
          */
         rootElement={document.getElementById('__next') as HTMLElement}
-        text="☕ Chat with Sal"
+        text="☕ Chat with Cerine"
         color="#5b78f6"
       />
       <Footer />

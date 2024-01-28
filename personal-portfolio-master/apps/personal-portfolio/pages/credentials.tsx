@@ -111,7 +111,7 @@ const CredentialsPage = () => {
                   )}
                 </div>
               </div>
-              <div className="skills-wrap awards-wrap">
+              {/* <div className="skills-wrap awards-wrap">
                 <h2 data-aos="fade-up">{en.credentials.expertise.heading}</h2>
                 <div className="d-grid skill-items gap-24 flex-wrap">
                   {en.credentials.expertise.expertise.map((item, index) => (
@@ -121,7 +121,7 @@ const CredentialsPage = () => {
                     </div>
                   ))}
                 </div>
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

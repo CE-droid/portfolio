@@ -4,15 +4,15 @@
     "mail": {
       "heading": "MAIL",
       "icon": "iconoir-mail",
-      "links": ["sal@dezzign.studio", "msalanvarov@gmail.com"]
+      "links": [ "gousminecerine@gmail.com"]
     },
     "phone": {
       "heading": "CONTACT",
       "icon": "iconoir-phone",
       "links": [
         {
-          "text": "Calendly",
-          "href": "https://calendly.com/msalanvarov"
+          "text": "+213 698802615",
+          "href": ""
         }
       ]
     },
@@ -20,18 +20,18 @@
       "heading": "LOCATION",
       "icon": "iconoir-pin-alt",
       "type": "Location",
-      "location": "Toronto, Canada"
+      "location": "Draria, Algiers"
     }
   },
   "profiles": {
     "heading": "External",
     "profiles": [
       {
-        "link": "https://github.com/msanvarov",
+        "link": "",
         "icon": "iconoir-github"
       },
       {
-        "link": "https://linkedin.com/in/sal-anvarov",
+        "link": "https://www.linkedin.com/in/cerine-gousmine",
         "icon": "iconoir-linkedin"
       }
     ]

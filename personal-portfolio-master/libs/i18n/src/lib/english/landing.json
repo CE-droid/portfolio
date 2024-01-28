@@ -1,11 +1,12 @@
 {
   "bio": {
     "heading": "Gousmine Cerine.",
-    "caption": "Designer & Full Stack Developer",
-    "description": "System designer, strategist and web development guru. Builds UX rich and performant websites. Sal had the privilege of building software and consulting for start-ups and big corporations.",
-    "descriptionExtended": "Currently contributing to the design and development efforts at <span class='text-primary-color'>Oproma</span>.",
+    "caption": "Full Stack Developer",
+    "description": "System designer, strategist and web development guru. Builds UX rich and performant websites.",
+    "descriptionExtended": "",
+
     "location": "📍 Based in Algiers, Draria.",
-    "media": "/assets/3d-headshot.png",
+    "media": "/assets/3d-female3.jpeg",
     "button": {
       "link": "/bio",
       "icon": {
@@ -16,7 +17,7 @@
   },
   "credentials": {
     "heading": "Qualifications",
-    "caption": "A little on Sal",
+    "caption": "A little on Cerine",
     "media": "/assets/credentials.png",
     "button": {
       "link": "/credentials",
@@ -38,18 +39,7 @@
       }
     }
   },
-  "blog": {
-    "caption": "Explore Blog",
-    "heading": "Blog",
-    "media": "/assets/blog.png",
-    "button": {
-      "link": "/posts",
-      "icon": {
-        "light": "/assets/icons/icon-2.svg",
-        "dark": "/assets/icons/icon.svg"
-      }
-    }
-  },
+  
   "offerings": {
     "heading": "Offerings",
     "caption": "Explore offerings",
@@ -81,11 +71,11 @@
     },
     "profiles": [
       {
-        "link": "https://github.com/msanvarov/personal-portfolio",
+        "link": "",
         "icon": "iconoir-github"
       },
       {
-        "link": "https://linkedin.com/in/sal-anvarov",
+        "link": "https://www.linkedin.com/in/cerine-gousmine",
         "icon": "iconoir-globe"
       }
     ]
@@ -93,17 +83,10 @@
   "facts": {
     "quickFacts": [
       {
-        "count": "6+",
+        "count": "2+",
         "label": "YEARS <br /> EXPERIENCE"
-      },
-      {
-        "count": "60+",
-        "label": "CONSULTATIONS <br /> CONDUCTED"
-      },
-      {
-        "count": "12+",
-        "label": "PRODUCTION <br /> APPLICATIONS"
       }
+    
     ]
   },
   "contact": {
